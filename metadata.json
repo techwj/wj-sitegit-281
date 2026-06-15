@@ -1,0 +1,71 @@
+{
+  "siteId": "tai-chi-beginner",
+  "generatedAt": "2026-06-05T17:14:36.614939",
+  "categories": [
+    "beginner-tai-chi-beginner",
+    "advanced-tai-chi-beginner",
+    "tips-tai-chi-beginner",
+    "history-tai-chi-beginner",
+    "trending-tai-chi-beginner",
+    "tutorials-tai-chi-beginner"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-tai-chi-beginner",
+      "category_name": "Beginner Tai Chi Beginner"
+    },
+    {
+      "category_slug": "advanced-tai-chi-beginner",
+      "category_name": "Advanced Tai Chi Beginner"
+    },
+    {
+      "category_slug": "tips-tai-chi-beginner",
+      "category_name": "Tai Chi Beginner Tips"
+    },
+    {
+      "category_slug": "history-tai-chi-beginner",
+      "category_name": "Tai Chi Beginner History"
+    },
+    {
+      "category_slug": "trending-tai-chi-beginner",
+      "category_name": "Trending Tai Chi Beginner"
+    },
+    {
+      "category_slug": "tutorials-tai-chi-beginner",
+      "category_name": "Tai Chi Beginner Tutorials"
+    }
+  ],
+  "articleCount": 108,
+  "design": {
+    "site_id": "tai-chi-beginner",
+    "color_scheme": {
+      "name": "Warm Orange",
+      "primary": "#c2410c",
+      "secondary": "#f97316",
+      "accent": "#fdba74",
+      "background": "#fff7ed",
+      "text": "#7c2d12",
+      "light": "#ffedd5"
+    },
+    "font": {
+      "name": "Inter",
+      "family": "'Inter', system-ui, sans-serif",
+      "import": "@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');"
+    },
+    "layout": "centered-wide",
+    "border_radius": "0px",
+    "box_shadow": "0 10px 15px -3px rgba(0,0,0,0.1), 0 4px 6px -2px rgba(0,0,0,0.05)",
+    "article_card_style": "minimal",
+    "header_style": "sticky",
+    "footer_style": "detailed",
+    "modules": [
+      "stats-widget",
+      "popular-tags",
+      "trending-articles",
+      "social-links",
+      "newsletter-signup"
+    ],
+    "site_title": "Tai Chi Beginner Central",
+    "articles_per_row": 3
+  }
+}
